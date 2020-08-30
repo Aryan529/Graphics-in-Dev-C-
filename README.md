@@ -4,7 +4,7 @@
 
 1. Copy `6-ConsoleAppGraphics.template` file to the location where you installed DevC++
 
-      like-- > C:\Program Files (x86)\Dev-Cpp\Templates
+        C:\Program Files (x86)\Dev-Cpp\Templates
       
    [Paste it in templates folder.]
    
@@ -37,4 +37,4 @@
 
 Now you are ready to run and compile your C++ Graphics programms
 
-***HAPPY CODING***
+   ***HAPPY CODING***
