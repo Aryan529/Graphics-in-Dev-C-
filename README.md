@@ -37,4 +37,4 @@
 
 Now you are ready to run and compile your C++ Graphics programms
 
-   ***HAPPY CODING***
+   ***HAPPY CODING*** :smile:
