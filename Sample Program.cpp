@@ -6,7 +6,7 @@ main()
 {
    int gd = DETECT, gm, x, y, color, angle = 0;
    struct arccoordstype a, b;
-   initgraph(&gd, &gm, "C:\\TC\\BGI");
+   initgraph(&gd, &gm, "");
    delay(2000);                                                                
    while(angle<=360)
    {
