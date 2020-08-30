@@ -1,1 +1,2 @@
-# Graphics-in-Dev-C-
+# Graphics-in-Dev-C++
+
