@@ -8,7 +8,7 @@
       
    [Paste it in templates folder.]
    
-2. Copy `libgi.a` file to - 
+2. Copy `libbgi.a` file to - 
 
         C:\Program Files (x86)\Dev-Cpp\MinGW64\lib
       
